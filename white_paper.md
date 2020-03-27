@@ -2,6 +2,9 @@
  - Abstract (전체 요약)
 
 2) Data Processing Techniques
+해당 대회의 데이터셋은 전부 (3000, 3000)의 동일한 사이즈의 인공위성 이미지이며, 이는 GPU를 통한 이미지 처리를 진행하기에 굉장히 큰 크기에 속합니다.
+
+
  - Image Split/Merge (3000 → 1024 → Model → 3000)
  - Image Split시 기존 대비 0.7이상 넓이가 줄어든 경우 제외
  - Class balancing (대략 1 : 0.9 : 0.8 : 0.4)
