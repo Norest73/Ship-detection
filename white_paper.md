@@ -1,5 +1,5 @@
 1) Introduction to Solution
- - Abstract (전체 요약)
+     - Abstract (전체 요약)
 
 2) Data Processing Techniques
  - 해당 대회의 데이터셋은 전부 (3000, 3000)의 동일한 사이즈의 인공위성 이미지이며, 이는 GPU를 통한 이미지 처리를 진행하기에 굉장히 큰 크기에 속합니다.
